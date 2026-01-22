@@ -33,7 +33,7 @@ SentenceBERT [jhgan/ko-sroberta-multitask](https://huggingface.co/jhgan/ko-srobe
 ### 1. Download to local folder
 
 ```
-$ git clone git@github.com:NadudAn/Python-AI-Chatbot.git
+$ git clone git@github.com:dnya0/Python-AI-Chatbot.git
 ```
 
 ### 2. Open VSCode of Anaconda
